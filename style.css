@@ -1,0 +1,25 @@
+header{padding-top:
+
+}
+
+H2 { background-color: grey;
+  text-decoration-color: black;
+  text-underline-posit: below;
+  text-align: inherit;
+
+}
+
+img { max-height: 10%;
+       max-width: 10%;
+       display: block;
+}
+
+body { background-color: beige;
+  text-decoration-color: white;
+
+}
+h3 {background-color: grey;
+  text-underline-position: below;
+  text-decoration: white;
+  text-align: center;
+}
