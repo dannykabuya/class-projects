@@ -14,10 +14,16 @@ img { max-height: 10%;
        display: block;
 }
 
-body { background-color: beige;
+body {
+  background-color: beige;
   text-decoration-color: white;
-
 }
+
+p {
+  font-family: 'Ranga', cursive;
+  /* font-family: 'Roboto', sans-serif; */
+}
+
 h3 {background-color: grey;
   text-underline-position: below;
   text-decoration: white;
